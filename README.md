@@ -1,3 +1,2 @@
 
-# project-iaclub
 # project-aicrowd
