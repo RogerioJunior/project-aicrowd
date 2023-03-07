@@ -32,8 +32,11 @@ body {
 }
 
 .hero {
-    height: calc(100vh - 105px);
+    height: calc(100vh - 100px);
     display: flex;
     align-items: center;
     justify-content: center;
+
+    background: linear-gradient(90deg, rgba(0,0,0,1) 90%, rgba(0,0,0,0.8) 90%, rgba(0,0,0,1) 90%);
+    opacity: 0.9;
 }
